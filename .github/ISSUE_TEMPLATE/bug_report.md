@@ -20,10 +20,12 @@ assignees: nathanacurtis
 
 ### Steps to reproduce
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Format `layer` with `style` text style...
+2. Add `16` autolayout spacing to `layer` on `variant` variant...
+3. Click on '....'
+4. Scroll down to '....'
+5. Run the plugin
+6. The `section` of specs shows X when I expected to see Y
 
 ### Screenshot
 
