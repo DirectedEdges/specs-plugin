@@ -11,6 +11,13 @@ assignees: nathanacurtis
 
 {A clear and concise description of what the bug is}
 
+### Defect log
+
+{Before running the plugin, in Figma:
+* Select Plugins > Development > Open console
+* Run the plugin
+* Paste the text or screenshot of error displayed in the console log here}
+
 ### Steps to reproduce
 
 1. Go to '...'
@@ -18,17 +25,9 @@ assignees: nathanacurtis
 3. Scroll down to '....'
 4. See error
 
-### Expected behavior
-
-{A clear and concise description of what you expected to happen}
-
 ### Screenshot
 
 {If applicable, add screenshots such as the Figma canvas, layer panel or design panel}
-
-### Console log
-
-{Paste the text or screenshot of error displayed in the console log. To open the console log in Figma, select Plugins > Development > Open console _before_ running the plugin to reproduce the error}
 
 ### Additional context
 
