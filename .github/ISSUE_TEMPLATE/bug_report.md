@@ -1,3 +1,11 @@
+---
+name: Bug
+about: Describe a defect you encountered
+title: ''
+labels: ''
+assignees: ''
+
+---
 ### Description
 
 {Describe the bug in a sentence}
