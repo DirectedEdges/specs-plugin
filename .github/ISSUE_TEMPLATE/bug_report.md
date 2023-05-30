@@ -9,23 +9,11 @@ assignees: nathanacurtis
 
 ### Description
 
-{A clear and concise description of what the bug is}
-
-### Defect log
-
-{Before running the plugin, in Figma:
-* Select Plugins > Development > Open console
-* Run the plugin
-* Paste the text or screenshot of error displayed in the console log here}
+{Describe the bug in a sentence}
 
 ### Steps to reproduce
 
-1. Format `layer` with `style` text style...
-2. Add `16` autolayout spacing to `layer` on `variant` variant...
-3. Click on '....'
-4. Scroll down to '....'
-5. Run the plugin
-6. The `section` of specs shows X when I expected to see Y
+{Add steps to reproduce the error}
 
 ### Screenshot
 
@@ -34,3 +22,7 @@ assignees: nathanacurtis
 ### Additional context
 
 {Add any other context about the problem here}
+
+### Defect log
+
+{Copy the message from the browser/Figma console, if relevant}
