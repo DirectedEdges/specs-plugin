@@ -1,12 +1,3 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: defect
-assignees: nathanacurtis
-
----
-
 ### Description
 
 {Describe the bug in a sentence}
