@@ -17,6 +17,7 @@ Relevant content can include:
 * Element Figma layer type (indicated by an icon)
 * Dependency ("Depends on"), associating a nested instance with it's origin component
 * Visual attributes, such as `background color`, `width` and `opacity`, that – if Properties is also produced – are limited to those that do not vary across property options
+* Configured property values of nested instances
 
 ## How it works
 
