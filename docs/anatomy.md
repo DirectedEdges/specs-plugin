@@ -2,6 +2,22 @@
 
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/6371108a-b40f-4823-90d7-ce64dcd7989f)
 
+## What it includes
+
+The Anatomy section includes:
+
+1. An itemized element list (the "content") that can include:
+  * All text, line, polygon, star, rectangle, and similar layers encountered
+  * All frame layers to which relevant attributes are associated
+  * All nested component instances, but _not_ any children layers within those nested instances
+2. A frame (the "artwork) that includes a cloned version of the selected item and annotated markers associating each element with the enumerated item in the list
+
+Relevant content can include:
+* Element name
+* Element Figma layer type (indicated by an icon)
+* Dependency ("Depends on"), associating a nested instance with it's origin component
+* Visual attributes, such as `background color`, `width` and `opacity`, that – if Properties is also produced – are limited to those that do not vary across property options
+
 ## How it works
 
 To produce the anatomy, the plugin traverses the node’s layers to itemize and mark text, instances, and other shapes as elements.
