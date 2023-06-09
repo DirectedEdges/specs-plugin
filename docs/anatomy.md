@@ -19,5 +19,3 @@ The results work for most practical component displays, even if it’s not perfe
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/81ff8fd9-6438-4297-b767-7dab7aa1291f)
 
 In this extreme example, the Anatomy itemizes every cell of the calendar. As markers surround the date picker in a first ring, the plugin then begins including a second ring of markers slightly offset until those, too, run out of space. For each element, the plugin attempts to place a marker on all four sides in the first ring, then all four sides of the second ring, and then gives up.
-
-![image](https://github.com/EightShapes/specs-plugin/assets/1165904/f2d504ba-8d01-4712-b2b6-f344d37ef7b7)
