@@ -22,6 +22,6 @@ Boolean props are simplified displays to highlight the property type, default va
 
 ### What if variants vary together, such that combinations of two variant properties result in different visual attributes?
 
-This is referred to as "compound props, where property combinations (such as type and color mode) are required to fully document how styles changes. While not automated, spec authors can run the plugin against different instance configurations to quickly if manually assemble a “compound property” display.
+This is referred to as a "compound props" case, where property combinations (such as type and color mode) are required to fully document how styles changes. While not automated, spec authors can run the plugin against different instance configurations to quickly if manually assemble a “compound property” display.
 
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/b5b35ecb-00b2-499e-84a7-8476e242b506)
