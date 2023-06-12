@@ -1,6 +1,5 @@
 # Properties
 
-Contents:
 * [What it includes](#whatitincludes)
 * [How it works](#howitworks)
 * [FAQs](#faqs)
