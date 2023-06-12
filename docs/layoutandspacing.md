@@ -42,7 +42,7 @@ The plugin traverses the item to find any layer configured with Figma autolayout
 
 ## FAQs <a id="faqs"></a>
 
-### Can I choose to simplify annotations to not include so much "marker junk" on the periphery?
+#### Can I choose to simplify annotations to not include so much "marker junk" on the periphery?
 
 Not all users value markers for attributes like resizing, alignment and direction. A request for [a setting to hide these markings](https://github.com/EightShapes/specs-plugin/issues/79) is in the backlog.
 
