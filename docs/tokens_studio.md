@@ -1,13 +1,21 @@
+# Tokens Studio formatting
+
+* [What it includes](#whatitincludes)
+* [How it works](#howitworks)
+  * [Supported attributes](#supported)
+  * [Attributes not supported](#notsupported)
+* [Examples](#examples)
+
 The EightShapes Specs plugin Pro upgrade formats attributes as tokens managed by the [Tokens Studio for Figma](https://docs.tokens.studio/) plugin available in the [Figma Community](https://www.figma.com/community/plugin/843461159747178978/Tokens-Studio-for-Figma-(Figma-Tokens)).
 
 <img width="447" alt="CleanShot 2023-06-12 at 10 41 08@2x" src="https://github.com/EightShapes/specs-plugin/assets/1165904/51cbcfc8-1de7-43dd-bc58-3bff0b99f05f">
 
-## What it includes
+## What it includes <a id="whatitincludes"></a>
 
 * Hardcoded values are replaced with detected Tokens Studio tokens in all three sections: Anatomy, Properties, and Layout and Spacing.
 * Tokens Studio tokens, when detected, are favored over both hardcoded attribute values as well as applied Figma styles for color, text and effects. When both a Figma style and Token Studio token are encountered, the Tokens Studio token is displayed.
 
-## How it works
+## How it works <a id="howitworks"></a>
 
 To display Tokens Studio tokens:
 
@@ -18,7 +26,7 @@ To display Tokens Studio tokens:
 5. Click on the Create Specs button.
 6. View results
 
-### Supported attributes
+### Supported attributes <a id="supported"></a>
 
 Relative to Tokens Studio's [available properties](https://github.com/tokens-studio/figma-plugin/blob/main/src/constants/Properties.ts), the EightShapes Specs plugin currently supports the following attributes:
 
@@ -69,7 +77,7 @@ Relative to Tokens Studio's [available properties](https://github.com/tokens-stu
 * `Vertical resizing`
 * `Width`
 
-### Not supported
+### Attributes not supported <a id="notsupported"></a>
 
 The following attributes to which Token Studio tokens can be applied are not detected by the EightShapes Plugin.
 
@@ -91,7 +99,7 @@ The following attributes to which Token Studio tokens can be applied are not det
   * `Sizing` > `All`, which sets both height and width simultaneously such that neither is detected.
 * `Visibility`
 
-## Examples
+## Examples <a id="examples"></a>
 
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/a89e94e6-28ad-440d-bc28-da3988a26df8)
 Comparing Anatomy attributes of basic outputs (on the left) versus Token Studio tokens (on the right)
