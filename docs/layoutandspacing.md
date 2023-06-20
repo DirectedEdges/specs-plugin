@@ -46,5 +46,11 @@ The plugin traverses the item to find any layer configured with Figma autolayout
 
 Not all users value markers for attributes like resizing, alignment and direction. A request for [a setting to hide these markings](https://github.com/EightShapes/specs-plugin/issues/79) is in the backlog.
 
+#### Can I hide the less important visual annotations for direction, alignment and resizing?
+
+Yes. Because some customers and their stakeholders (such as developers to which they handoff) don't prefer including these annotations, there's a setting to "Hide outer layout annotations" that omits markers for direction, alignment and resizing.
+
+// screenshot
+
 ## Examples <a id="examples"></a>
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/a2ccab12-d9fb-4b96-b351-b92c9747edad)
