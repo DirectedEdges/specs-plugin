@@ -1,6 +1,6 @@
 # EightShapes Specs
 
-![image](https://github.com/EightShapes/specs-plugin/assets/1165904/0c6f10bd-6782-486b-929e-2159043337c3)
+![EightShapes Specs Cover Art](https://github.com/EightShapes/specs-plugin/assets/1165904/f66d12ad-5c46-45cc-9f49-7c398feba7cf)
 
 Welcome to the EightShapes Specs Figma plugin repository. This repository's purpose is publish documentation about the plugin and serve as a public forum for plugin authors and users to submit defects and feature ideas and monitor their status.
 
