@@ -2,7 +2,7 @@
 
 The plugin will detect, format and compare attribute values mapped to Figma variables.
 
-// Screenshot: variable formatting
+![VariableFormatting](https://github.com/EightShapes/specs-plugin/assets/1165904/d326e718-35c3-4ecb-b54b-8b4746dc065d)
 
 The *Figma variables formatting* feature is only available via the Pro subscription to the EightShapes Specs plugin.
 
@@ -26,7 +26,7 @@ For the Properties section, the plugin compares values of many attributes on eve
 
 ## Examples <a id="examples"></a>
 
-// Screenshot: variables in properties
+![VariablesInProperties](https://github.com/EightShapes/specs-plugin/assets/1165904/f414e29c-b1e0-4298-b128-fc3ee74fc73f)
 
 Background and text color of a component instance mapped to `Alert/Basic/Background` and `Alert/Basic/Element` variables, respectively, of the `ESDS Color` variable collection
 
