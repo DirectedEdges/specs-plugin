@@ -44,11 +44,11 @@ Once text styles and color variables are added to the document, you can customiz
 
 For example, if your design system's primary `Font name` is `IBM Plex Sans`, you can update the `Font name` each text style to that font name. Subsequent runs of the plugin that configure the `Spec styling` to `Use local styles` or `Add local styles` will continue to apply these updated text styles to spec outputs.
 
-// Add screenshot
+![Spec Styling Change Font Name](https://github.com/EightShapes/specs-plugin/assets/1165904/13009a8c-5532-4406-8fdc-4739fff601cd)
 
 Similarly, imagine you would like spec dark mode backgrounds to apply `#1F2328` as the dark mode background color and `#4787DF` as the dark mode spec style and variable pill label color.
 
-// Add screenshot
+![Spec Styling Change Dark Mode Token Value](https://github.com/EightShapes/specs-plugin/assets/1165904/b69ffafd-3702-488d-954b-379e0f9f78ac)
 
 ## FAQs <a id="faqs"></a>
 
