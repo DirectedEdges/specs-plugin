@@ -15,7 +15,7 @@ The *spec nested components* feature is only available via the Pro subscription 
 
 ## Examples <a id="examples"></a>
 
-// screenshot - spec nested components
+![Spec nested components](https://github.com/EightShapes/specs-plugin/assets/1165904/16fb37af-0d9e-46b2-aff5-ef31a0880ca3)
 
 The first spec run (on the left, set to [Dark mode](dark-mode.md)) did not include nested components, resulting in only the specification of `Button`. The second spec run (on the right, set to light mode) set **Spec nested subcomponents** to active, resulting in the `Icon` and `Icon art asset` components also being included.
 
