@@ -41,10 +41,6 @@ In the artwork frame, which may combine your item with markers for Anatomy eleme
 
 The frame itself, as well as plugin elements like markers and annotations, should swap colors relative to the mode selected. Your artwork, presumably not styled with `EightShapes Specs` variables, should be unimpacted.
 
-// Screenshot: dark artwork within light spec
-
-// Screenshot: light artwork within dark spec
-
 ## FAQs <a id="faqs"></a>
 
 #### Why doesn't my `EightShapes Specs` Figma variables collection include a `dark` column? <a id="modes"></a>
