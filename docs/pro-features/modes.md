@@ -1,8 +1,8 @@
 # Modes
 
-The plugin will detect, format and compare layers with variables applied where those variables have (a) multiple modes and (b) differ by mode.
+The plugin can spec and show artwork for variables bounded to layers that (a) have multiple modes and (b) differ by mode in a Modes section.
 
-![image](https://github.com/EightShapes/specs-plugin/assets/1165904/d3732b2d-d227-4fe9-aaa8-1a0c03d8fb21)
+![image](https://github.com/EightShapes/specs-plugin/assets/1165904/0c7e6e23-14f7-44c9-80b7-3ec4d2bb6083)
 
 The *Figma variables formatting* feature is only available via the Pro subscription to the EightShapes Specs plugin.
 
@@ -29,7 +29,7 @@ In each subsection corresponding to a variable collection, the plugin will:
 
 ## Examples <a id="examples"></a>
 
-![image](https://github.com/EightShapes/specs-plugin/assets/1165904/a6491d1b-d66b-48e0-9a40-336a8f030677)
+![image](https://github.com/EightShapes/specs-plugin/assets/1165904/e6aae829-98eb-434f-892a-5084142c2a90)
 
 Here, the Color variable collection varies colors across two modes: light and dark. With those variables applied to text and alert colors, the `Alert` component will result in a two moded display showing both light and dark modes and the values corresponding to each relevant variable.
 
