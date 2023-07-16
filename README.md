@@ -15,6 +15,7 @@ The plugin automates the production design specifications based on selected Figm
 In addition, plugin subscribers to Pro features access additional features including:
 
 * [Figma variables](docs/pro-features/figma-variables.md) detection & display
+* [Modes](docs/pro-features/modes.md) detection & display
 * [Tokens Studio tokens](docs/pro-features/tokens_studio.md) detection & display
 * [Custom spec formatting](docs/pro-features/custom-spec-formatting.md) using Figma color variables and text styles
 * [Specs of nested components](docs/pro-features/spec-nested-components.md) automated, easing how to find and spec relevant components 
