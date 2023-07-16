@@ -1,6 +1,6 @@
 # Modes
 
-The plugin can spec and show artwork for variables bounded to layers that (a) have multiple modes and (b) differ by mode in a Modes section.
+The plugin can produce a Modes section that includes specs and artwork of items with layer-bound variables that (a) have multiple modes with (b) values that differ by mode.
 
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/0c7e6e23-14f7-44c9-80b7-3ec4d2bb6083)
 
