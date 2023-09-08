@@ -2,7 +2,7 @@
 
 The plugin offers two formats for the Anatomy section: List beside artwork and Table below artwork.
 
-![anatomy-format](https://github.com/EightShapes/specs-plugin/assets/1165904/81277c33-3eaf-4456-8c04-1fbbe09c5749)
+![anatomy-format](https://github.com/EightShapes/specs-plugin/assets/1165904/4536b8d1-7aea-4e2a-9c04-44222c2fbbeb)
 
 The *Anatomy format* feature is only available via the Pro subscription to the EightShapes Specs plugin.
 
