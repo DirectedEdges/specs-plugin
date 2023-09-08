@@ -20,6 +20,6 @@ Refer to the [anatomy](../anatomy.md) for a description of how the anatomy is ge
 For the alternative tabular format displayed below the annotated artwork, the plugin will:
 
 * Construct a "Nested components" table each nested component detected, with columns for component name (based on the nested layer name), dependency name, configured properties, and – when detected – associated linkes to dev resources
-* Construct an "Other elements" table, with columns for element name (based on layer name) and associated relevant attributes
+* Construct an "Elements with attributes" table, with columns for element name (based on layer name) and associated relevant attributes
 * For instances, include the top layer in the "Other elements" table when that layer has relevant attributes
 
