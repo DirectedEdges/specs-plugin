@@ -2,6 +2,8 @@
 
 The plugin enables users to arrange specs artwork and content in the [Properties](../properties.md), [Modes](modes.md) and [Layout](../layoutandspacing.md) sections in a vertical stacked or multi-column format.
 
+![layout_columns](https://github.com/EightShapes/specs-plugin/assets/1165904/e42789ee-2b94-4c2c-9531-972c32cc2949)
+
 The *Layout columns* feature is only available via the Pro subscription to the EightShapes Specs plugin.
 
 * [What is included](#whatisincluded)
@@ -32,8 +34,6 @@ Once the specs are generated, a user can adjust the width of the `Specification`
 ### Three columns, resized
 
 You can resize the `Specification` layer and items should adjust the size to fill the space until sufficient space for another column is available.
-
-### Four columns
 
 ### Five columns
 
