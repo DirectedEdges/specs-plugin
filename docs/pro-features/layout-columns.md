@@ -6,6 +6,7 @@ The *Layout columns* feature is only available via the Pro subscription to the E
 
 * [What is included](#whatisincluded)
 * [How it works](#howitworks)
+* [Examples](#examples)
 
 ## What is included <a id="whatisincluded"></a>
 
@@ -26,7 +27,7 @@ For sections and subsections that include fewer or more items than the column qu
 
 Once the specs are generated, a user can adjust the width of the `Specification` frame and spec artwork and content will adjust and resize within the layout (such as to show five columns) within reasonable limits.
 
-## Examples
+## Examples <a id="examples"></a>
 
 ### Three columns, resized
 
