@@ -31,10 +31,14 @@ Once the specs are generated, a user can adjust the width of the `Specification`
 
 ## Examples <a id="examples"></a>
 
-### Three columns, resized
+### Three columns, manually resized
 
 You can resize the `Specification` layer and items should adjust the size to fill the space until sufficient space for another column is available.
+![layout-columns-three](https://github.com/EightShapes/specs-plugin/assets/1165904/55e86bcd-8cbf-429f-8b3b-71e4639c13f8)
 
-### Five columns
+### Manually resized, beyond four columns
 
-You can resize the `Specification` layer after specs are generated to show more items per row.
+You can resize the `Specification` layer after specs are generated to show more than five items per row. In this example, the width has been adjusted to show five columns.
+
+Also note that boolean properties are grouped to wrap together as a set to save space.
+![layout-columns-five](https://github.com/EightShapes/specs-plugin/assets/1165904/c69fad3d-7aec-4b6c-a383-8d88dc123e33)
