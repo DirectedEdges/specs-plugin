@@ -16,7 +16,7 @@ In addition, plugin subscribers to Pro features access additional features inclu
 
 * [Figma variables](docs/pro-features/figma-variables.md) detection & display
 * [Modes](docs/pro-features/modes.md) detection & display
-* [Two way comparisons](docs/pro-features/tw0-way.md) to compare all combinations of two properties
+* [Two way comparisons](docs/pro-features/two-way.md) to compare all combinations of two properties
 * [Tokens Studio tokens](docs/pro-features/tokens_studio.md) detection & display
 * [Tokens Studio tokens](docs/pro-features/tokens_studio.md) detection & display
 * [Specs of nested components](docs/pro-features/spec-nested-components.md) automated, easing how to find and spec relevant components
