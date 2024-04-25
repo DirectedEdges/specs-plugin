@@ -21,6 +21,7 @@ In addition, plugin subscribers to Pro features access additional features inclu
 * [Tokens Studio tokens](docs/pro-features/tokens_studio.md) detection & display
 * [Specs of nested components](docs/pro-features/spec-nested-components.md) automated, easing how to find and spec relevant components
 * [Tabular Anatomy display](https://github.com/EightShapes/specs-plugin/blob/main/docs/pro-features/anatomy-format.md) including dev resources
+* [Anatomy across variants](https://github.com/EightShapes/specs-plugin/blob/main/docs/pro-features/anatomy-across-variants.md) to mark and annotate additional elements detected when comparing alternatives across Properties
 * [Multi-column layouts](https://github.com/EightShapes/specs-plugin/blob/main/docs/pro-features/layout-columns.md) of 2, 3 and 4 columns for Props, Modes and Layout sections
 * [Dark mode](docs/pro-features/dark-mode.md) spec formatting of plugin outputs by page, specs or artwork frames (for Figma accounts supporting two or more modes per variable collection)
 
