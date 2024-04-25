@@ -18,7 +18,6 @@ In addition, plugin subscribers to Pro features access additional features inclu
 * [Modes](docs/pro-features/modes.md) detection & display
 * [Two way comparisons](docs/pro-features/two-way.md) to compare all combinations of two properties
 * [Tokens Studio tokens](docs/pro-features/tokens_studio.md) detection & display
-* [Tokens Studio tokens](docs/pro-features/tokens_studio.md) detection & display
 * [Specs of nested components](docs/pro-features/spec-nested-components.md) automated, easing how to find and spec relevant components
 * [Tabular Anatomy display](https://github.com/EightShapes/specs-plugin/blob/main/docs/pro-features/anatomy-format.md) including dev resources
 * [Anatomy across variants](https://github.com/EightShapes/specs-plugin/blob/main/docs/pro-features/anatomy-across-variants.md) to mark and annotate additional elements detected when comparing alternatives across Properties
