@@ -21,9 +21,11 @@ When the plugin runs, it will generate relevant variables and/or text styles and
 For typography, the plugin looks for local text styles in the file that begin with `EightShapes Spec`. If a text style does not exist, the plugin adds the text style to the local file. As specifications are subsequently produced, each text style is applied to relevant frames throughout the output.
 
 EightShapes Spec text styles in local file:
+
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/ef64d4ca-995e-4942-b7d2-b89b43a1caf1)
 
 Text style applied to spec output:
+
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/7a57bb75-0ba3-49d8-92dd-0e99bc04339c)
 
 For example, if your design system's primary `Font name` is `IBM Plex Sans`, you can update the `Font name` each text style to that font name. Subsequent runs of the plugin that configure the `Spec styling` to `Use local styles` or `Add local styles` will continue to apply these updated text styles to spec outputs.
@@ -35,9 +37,11 @@ For example, if your design system's primary `Font name` is `IBM Plex Sans`, you
 For colors, the plugin looks for relevant variables in a variable collection named `EightShapes Specs`. If a color variable does not exist, the plugin adds the variable to the local variable collection. As specifications are subsequently produced, each color is applied to relevant frames and text throughout the output.
 
 EightShapes Specs variable collection:
+
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/5ddd6790-af15-455a-8dfd-bd591355ef3d)
 
 EightShapes Specs variable applied to spec output.
+
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/68fa88cf-2fe5-4416-9eb5-5379e64c0856)
 
 Similarly, imagine you would like spec dark mode backgrounds to apply `#1F2328` as the dark mode background color and `#4787DF` as the dark mode spec style and variable pill label color.
@@ -49,9 +53,11 @@ Similarly, imagine you would like spec dark mode backgrounds to apply `#1F2328` 
 For layout, the plugin looks for relevant variables in a variable collection named `Specs Layout`. If a layout and spacing variable does not exist, the plugin adds the variable to the local variable collection. As specifications are subsequently produced, each layout variable is applied to relevant frames throughout the output.
 
 Specs Layout variable collection:
+
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/2bb266d9-338f-48f2-8188-9747bacc6bc6)
 
 Specs Layout variable applied to spec output:
+
 ![image](https://github.com/EightShapes/specs-plugin/assets/1165904/741e44ba-94d6-4ae2-ac96-4fa69694bf14)
 
 ## FAQs <a id="faqs"></a>
