@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Problem**
+Describe the problem you are trying to solve, such as "The plugin doesn't enable me to..."
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Possible solution**
+Clearly and concisely describe one – or more – potential ways the plugin could help you solve the problem.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Add any other context or background to support your need.
+
+**Screenshots**
+Paste screenshot(s) from your clipboard of examples you'd like to see, including mockups of enhanced plugin output.
